@@ -1,2 +1,2 @@
-# fashionspray
+# Fashion Spray Project
 fashionspray
